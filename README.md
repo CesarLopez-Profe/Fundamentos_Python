@@ -27,6 +27,9 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
   • [Kattis - Enunciados de retos para programación](https://open.kattis.com/problems)
 
   • [Python cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
-  
+
+  • [Software Para Diagramas de Flujo](https://www.flowgorithm.org/)
+
+  • [Software para Pseudocódigo ](https://pseint.sourceforge.net/)
 
 

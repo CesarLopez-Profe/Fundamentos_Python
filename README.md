@@ -18,7 +18,7 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
 
 ## Sitios web recomendados para la materia
 
-  • [W3school - Turorial de Java y otros lenguajes](https://www.w3schools.com/python)
+  • [W3school - Turorial de Python y otros lenguajes](https://www.w3schools.com/python)
 
   • [Edabits - Turorial y retos en Python y otros lenguajes](https://edabit.com/challenges/python3)
 

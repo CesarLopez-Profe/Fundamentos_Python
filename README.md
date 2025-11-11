@@ -13,19 +13,20 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
   
 ## Temario
   
-  • [Introducción a la Programación](Slides/1_Introducción%20a%20la%20prorgamación.pptx)
+  • [Introducción a la Programación](Slides/1_Intro_Progr.pptx)
 
 
 ## Sitios web recomendados para la materia
 
-  • [W3school - Turorial de Java y otros lenguajes](https://www.w3schools.com/java/default.asp)
+  • [W3school - Turorial de Java y otros lenguajes](https://www.w3schools.com/python)
 
-  • [GeeksforGeeks - Turorial de Java](https://www.geeksforgeeks.org/java/?ref=outind)
+  • [Edabits - Turorial y retos en Python y otros lenguajes](https://edabit.com/challenges/python3)
 
-  • [Edabits - Turorial y retos en Java y otros lenguajes](https://edabit.com/challenges/java)
-
-  • [CodingBat - Retos en Java y Python](https://codingbat.com/java)
+  • [CodingBat - Retos en Python](https://codingbat.com/java)
 
   • [Kattis - Enunciados de retos para programación](https://open.kattis.com/problems)
+
+  • [Python cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
+  
 
 

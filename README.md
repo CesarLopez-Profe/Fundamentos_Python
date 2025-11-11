@@ -13,6 +13,8 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
   
 ## Temario
   
+  • [Introducción a la Formación Big Data](Slides/0_Intr_BigData.pptx)
+
   • [Introducción a la Programación](Slides/1_Intro_Progr.pptx)
 
 
